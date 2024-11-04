@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
  # 💫 About Me:
-🧑‍🏭I'm currently working on a interior decor Website using GSAP javascript libraries<br>💼I'm looking for a job<br>📱I specialize in creating Static and responsive websites<br>🔭My goal is to deliver high-quality, user-friendly web experiences<br>🌱I'm currently learning about back-end<br>⚡The Fun fact is "From - I hate coding to I love ❤️ coding"<br><br><br>
+🧑‍🏭I'm currently working on a interior decor Website using GSAP javascript libraries<br>📱I specialize in creating Static and responsive websites<br>🔭My goal is to deliver high-quality, user-friendly web experiences<br>🌱I'm currently learning about back-end<br>⚡The Fun fact is "From - I hate coding to I love ❤️ coding"<br><br><br>
 
 
 ## 🌐 Socials:
